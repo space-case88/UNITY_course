@@ -1,0 +1,13 @@
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.AssemblyReference.cache
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfoInputs.cache
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfo.cs
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.exe
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.deps.json
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.json
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.dev.json
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\casey\Desktop\basic_C#_programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.genruntimeconfig.cache
