@@ -1,0 +1,13 @@
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\bin\Debug\netcoreapp3.1\InsuranceCheck.exe
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\bin\Debug\netcoreapp3.1\InsuranceCheck.deps.json
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\bin\Debug\netcoreapp3.1\InsuranceCheck.runtimeconfig.json
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\bin\Debug\netcoreapp3.1\InsuranceCheck.runtimeconfig.dev.json
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\bin\Debug\netcoreapp3.1\InsuranceCheck.dll
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\bin\Debug\netcoreapp3.1\InsuranceCheck.pdb
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\obj\Debug\netcoreapp3.1\InsuranceCheck.csproj.AssemblyReference.cache
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\obj\Debug\netcoreapp3.1\InsuranceCheck.AssemblyInfoInputs.cache
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\obj\Debug\netcoreapp3.1\InsuranceCheck.AssemblyInfo.cs
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\obj\Debug\netcoreapp3.1\InsuranceCheck.csproj.CoreCompileInputs.cache
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\obj\Debug\netcoreapp3.1\InsuranceCheck.dll
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\obj\Debug\netcoreapp3.1\InsuranceCheck.pdb
+C:\Users\casey\Desktop\basic_C#_programs\InsuranceCheck\InsuranceCheck\obj\Debug\netcoreapp3.1\InsuranceCheck.genruntimeconfig.cache
