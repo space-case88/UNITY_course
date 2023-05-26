@@ -1,0 +1,13 @@
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.exe
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.deps.json
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.runtimeconfig.json
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.runtimeconfig.dev.json
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.dll
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\bin\Debug\netcoreapp3.1\IncomeComparison.pdb
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.csproj.AssemblyReference.cache
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.AssemblyInfoInputs.cache
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.AssemblyInfo.cs
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.dll
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.pdb
+C:\Users\casey\Desktop\basic_C#_programs\IncomeComparison\IncomeComparison\obj\Debug\netcoreapp3.1\IncomeComparison.genruntimeconfig.cache
