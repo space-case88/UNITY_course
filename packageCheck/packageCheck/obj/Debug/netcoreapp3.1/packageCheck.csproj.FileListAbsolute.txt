@@ -1,0 +1,13 @@
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\bin\Debug\netcoreapp3.1\packageCheck.exe
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\bin\Debug\netcoreapp3.1\packageCheck.deps.json
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\bin\Debug\netcoreapp3.1\packageCheck.runtimeconfig.json
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\bin\Debug\netcoreapp3.1\packageCheck.runtimeconfig.dev.json
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\bin\Debug\netcoreapp3.1\packageCheck.dll
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\bin\Debug\netcoreapp3.1\packageCheck.pdb
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\obj\Debug\netcoreapp3.1\packageCheck.csproj.AssemblyReference.cache
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\obj\Debug\netcoreapp3.1\packageCheck.AssemblyInfoInputs.cache
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\obj\Debug\netcoreapp3.1\packageCheck.AssemblyInfo.cs
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\obj\Debug\netcoreapp3.1\packageCheck.csproj.CoreCompileInputs.cache
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\obj\Debug\netcoreapp3.1\packageCheck.dll
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\obj\Debug\netcoreapp3.1\packageCheck.pdb
+C:\Users\casey\Desktop\basic_C#_programs\packageCheck\packageCheck\obj\Debug\netcoreapp3.1\packageCheck.genruntimeconfig.cache
