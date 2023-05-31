@@ -7,42 +7,56 @@ using System.Collections.Generic;
     {
         static void Main()
         {
-            string[] stringArray = { "Apple", "Banana", "Orange" };
-            int[] intArray = { 1, 2, 3, 4, 5 };
-            List<string> stringList = new List<string> { "Cat", "Dog", "Bird" };
+            // One-dimensional array of strings
+            string[] stringArray = { "Apple", "Banana", "Orange", "Grape", "Mango" };
 
-            Console.WriteLine("Select an index for the string array (0-2):");
+            // One-dimensional array of integers
+            int[] intArray = { 10, 20, 30, 40, 50 };
+
+            // List of strings
+            List<string> stringList = new List<string> {  "John", "Jane", "Alice", "Bob", "Mike" };
+
+            Console.WriteLine("Select an index to display a string from the Array: ");
             int stringIndex = Convert.ToInt32(Console.ReadLine());
 
+            //Check if the selected index is within the bounds of the array
             if (stringIndex >= 0 && stringIndex < stringArray.Length)
             {
-                Console.WriteLine("Selected index: " + stringIndex);
-                Console.WriteLine("String at index " + stringIndex + ": " + stringArray[stringIndex]);
+                Console.WriteLine("String at index {0}: {1}", stringIndex, stringArray[stringIndex]);
             }
-
             else
             {
-                Console.WriteLine("Invalid Index.");
+                Console.WriteLine("Index out of range.");
             }
 
-            Console.WriteLine();
-
-            Console.WriteLine("Select an index for the string list (0-2):");
+            Console.WriteLine("Select an index to display an integer from the Array: ");
             int intIndex = Convert.ToInt32(Console.ReadLine());
 
-            if (intIndex >= 0 && intIndex < stringList.Count)
+            // Check if the selected index is within the bounds of the Array.
+            if (intIndex >= 0 && intIndex < intArray.Length)
             {
-                Console.WriteLine("Selected index: " + intIndex);
-                Console.WriteLine("Content at index " + intIndex + ": " + stringList[intIndex]);
+                Console.WriteLine("Integer at index {0}: {1}", intIndex, intArray[intIndex]);
             }
             else
             {
-                Console.WriteLine("Invalid index. Index doesn't exist.");
+                Console.WriteLine("Index out of range.");
             }
 
-            Console.ReadLine();
+        Console.WriteLine("Select an index to display a string from the List: ");
+            int listIndex = Convert.ToInt32(Console.ReadLine());
 
+            // Check if the selected index is within the bounds of the List.
+            if (listIndex >= 0 && listIndex < stringList.Count)
+            {
+                Console.WriteLine("String at index {0}: {1}", listIndex, stringList[listIndex]);
+            }
+            else
+            {
+                Console.WriteLine("Index out of range.");
+            }
 
+                Console.ReadLine();
         }
     }
+
 
