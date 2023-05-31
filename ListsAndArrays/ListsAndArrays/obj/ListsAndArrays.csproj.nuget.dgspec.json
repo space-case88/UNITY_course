@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\casey\\Desktop\\basic_C#_programs\\ListsAndArrays\\ListsAndArrays\\ListsAndArrays.csproj": {}
+    "C:\\Users\\casey\\GitHub\\UNITY_course\\ListsAndArrays\\ListsAndArrays\\ListsAndArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\casey\\Desktop\\basic_C#_programs\\ListsAndArrays\\ListsAndArrays\\ListsAndArrays.csproj": {
+    "C:\\Users\\casey\\GitHub\\UNITY_course\\ListsAndArrays\\ListsAndArrays\\ListsAndArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\casey\\Desktop\\basic_C#_programs\\ListsAndArrays\\ListsAndArrays\\ListsAndArrays.csproj",
+        "projectUniqueName": "C:\\Users\\casey\\GitHub\\UNITY_course\\ListsAndArrays\\ListsAndArrays\\ListsAndArrays.csproj",
         "projectName": "ListsAndArrays",
-        "projectPath": "C:\\Users\\casey\\Desktop\\basic_C#_programs\\ListsAndArrays\\ListsAndArrays\\ListsAndArrays.csproj",
+        "projectPath": "C:\\Users\\casey\\GitHub\\UNITY_course\\ListsAndArrays\\ListsAndArrays\\ListsAndArrays.csproj",
         "packagesPath": "C:\\Users\\casey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\casey\\Desktop\\basic_C#_programs\\ListsAndArrays\\ListsAndArrays\\obj\\",
+        "outputPath": "C:\\Users\\casey\\GitHub\\UNITY_course\\ListsAndArrays\\ListsAndArrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

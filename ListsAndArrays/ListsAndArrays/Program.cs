@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 
 
-
+namespace ListsAndArrays
+{
     class Program
     {
         static void Main()
@@ -14,7 +15,7 @@ using System.Collections.Generic;
             int[] intArray = { 10, 20, 30, 40, 50 };
 
             // List of strings
-            List<string> stringList = new List<string> {  "John", "Jane", "Alice", "Bob", "Mike" };
+            List<string> stringList = new List<string> { "John", "Jane", "Alice", "Bob", "Mike" };
 
             Console.WriteLine("Select an index to display a string from the Array: ");
             int stringIndex = Convert.ToInt32(Console.ReadLine());
@@ -42,7 +43,7 @@ using System.Collections.Generic;
                 Console.WriteLine("Index out of range.");
             }
 
-        Console.WriteLine("Select an index to display a string from the List: ");
+            Console.WriteLine("Select an index to display a string from the List: ");
             int listIndex = Convert.ToInt32(Console.ReadLine());
 
             // Check if the selected index is within the bounds of the List.
@@ -55,8 +56,8 @@ using System.Collections.Generic;
                 Console.WriteLine("Index out of range.");
             }
 
-                Console.ReadLine();
+            Console.ReadLine();
         }
     }
-
+}
 
