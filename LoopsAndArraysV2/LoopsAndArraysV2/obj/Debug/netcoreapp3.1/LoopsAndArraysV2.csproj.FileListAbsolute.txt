@@ -1,0 +1,13 @@
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\bin\Debug\netcoreapp3.1\LoopsAndArraysV2.exe
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\bin\Debug\netcoreapp3.1\LoopsAndArraysV2.deps.json
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\bin\Debug\netcoreapp3.1\LoopsAndArraysV2.runtimeconfig.json
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\bin\Debug\netcoreapp3.1\LoopsAndArraysV2.runtimeconfig.dev.json
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\bin\Debug\netcoreapp3.1\LoopsAndArraysV2.dll
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\bin\Debug\netcoreapp3.1\LoopsAndArraysV2.pdb
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\obj\Debug\netcoreapp3.1\LoopsAndArraysV2.csproj.AssemblyReference.cache
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\obj\Debug\netcoreapp3.1\LoopsAndArraysV2.AssemblyInfoInputs.cache
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\obj\Debug\netcoreapp3.1\LoopsAndArraysV2.AssemblyInfo.cs
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\obj\Debug\netcoreapp3.1\LoopsAndArraysV2.csproj.CoreCompileInputs.cache
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\obj\Debug\netcoreapp3.1\LoopsAndArraysV2.dll
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\obj\Debug\netcoreapp3.1\LoopsAndArraysV2.pdb
+C:\Users\casey\GitHub\UNITY_course\LoopsAndArraysV2\LoopsAndArraysV2\obj\Debug\netcoreapp3.1\LoopsAndArraysV2.genruntimeconfig.cache
