@@ -1,0 +1,13 @@
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.exe
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.deps.json
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.runtimeconfig.json
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.runtimeconfig.dev.json
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.dll
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.pdb
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.csproj.AssemblyReference.cache
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.AssemblyInfoInputs.cache
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.AssemblyInfo.cs
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.csproj.CoreCompileInputs.cache
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.dll
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.pdb
+C:\Users\casey\GitHub\UNITY_course\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.genruntimeconfig.cache
