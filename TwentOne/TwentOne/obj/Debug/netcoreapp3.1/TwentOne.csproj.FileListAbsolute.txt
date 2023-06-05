@@ -1,0 +1,13 @@
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\bin\Debug\netcoreapp3.1\TwentOne.exe
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\bin\Debug\netcoreapp3.1\TwentOne.deps.json
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\bin\Debug\netcoreapp3.1\TwentOne.runtimeconfig.json
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\bin\Debug\netcoreapp3.1\TwentOne.runtimeconfig.dev.json
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\bin\Debug\netcoreapp3.1\TwentOne.dll
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\bin\Debug\netcoreapp3.1\TwentOne.pdb
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\obj\Debug\netcoreapp3.1\TwentOne.csproj.AssemblyReference.cache
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\obj\Debug\netcoreapp3.1\TwentOne.AssemblyInfoInputs.cache
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\obj\Debug\netcoreapp3.1\TwentOne.AssemblyInfo.cs
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\obj\Debug\netcoreapp3.1\TwentOne.csproj.CoreCompileInputs.cache
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\obj\Debug\netcoreapp3.1\TwentOne.dll
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\obj\Debug\netcoreapp3.1\TwentOne.pdb
+C:\Users\casey\GitHub\UNITY_course\TwentOne\TwentOne\obj\Debug\netcoreapp3.1\TwentOne.genruntimeconfig.cache

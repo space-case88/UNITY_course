@@ -1,0 +1,12 @@
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\bin\Debug\netcoreapp3.1\MathClassMethod.exe
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\bin\Debug\netcoreapp3.1\MathClassMethod.deps.json
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\bin\Debug\netcoreapp3.1\MathClassMethod.runtimeconfig.json
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\bin\Debug\netcoreapp3.1\MathClassMethod.runtimeconfig.dev.json
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\bin\Debug\netcoreapp3.1\MathClassMethod.dll
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\bin\Debug\netcoreapp3.1\MathClassMethod.pdb
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\obj\Debug\netcoreapp3.1\MathClassMethod.AssemblyInfoInputs.cache
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\obj\Debug\netcoreapp3.1\MathClassMethod.AssemblyInfo.cs
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\obj\Debug\netcoreapp3.1\MathClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\obj\Debug\netcoreapp3.1\MathClassMethod.dll
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\obj\Debug\netcoreapp3.1\MathClassMethod.pdb
+C:\Users\casey\GitHub\UNITY_course\MathClassMethod\MathClassMethod\obj\Debug\netcoreapp3.1\MathClassMethod.genruntimeconfig.cache

@@ -23,7 +23,7 @@ namespace step203
                     for (int i = 0; i < numbers.Count; i++)
                     {
                         int result = numbers[i] / divisor;
-                        Console.WriteLine($"Resilt of division: {result}");
+                        Console.WriteLine($"Result of division: {result}");
                     }
                 }
                 else
