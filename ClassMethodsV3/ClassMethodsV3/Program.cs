@@ -18,10 +18,14 @@ namespace ClassMethodsV3
             if (!string.IsNullOrEmpty(input))
             {
                 number2 = int.Parse(input);
+                int result = methodSub.PerformMathOperation(number1, number2);
+                Console.WriteLine("The result of the math operation is: " + result);
             }
-
-            int result = methodSub.PerformMathOperation(number1, number2);
-            Console.WriteLine("The result of the math operation is: " + result);
+            else
+            {
+                int result = methodSub.PerformMathOperation(number1, number2);
+                Console.WriteLine("The result of the math operation is: " + result);
+            }
         }
     }
 }
