@@ -1,0 +1,13 @@
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\bin\Debug\netcoreapp3.1\InheritanceV1.exe
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\bin\Debug\netcoreapp3.1\InheritanceV1.deps.json
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\bin\Debug\netcoreapp3.1\InheritanceV1.runtimeconfig.json
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\bin\Debug\netcoreapp3.1\InheritanceV1.runtimeconfig.dev.json
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\bin\Debug\netcoreapp3.1\InheritanceV1.dll
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\bin\Debug\netcoreapp3.1\InheritanceV1.pdb
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\obj\Debug\netcoreapp3.1\InheritanceV1.csproj.AssemblyReference.cache
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\obj\Debug\netcoreapp3.1\InheritanceV1.AssemblyInfoInputs.cache
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\obj\Debug\netcoreapp3.1\InheritanceV1.AssemblyInfo.cs
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\obj\Debug\netcoreapp3.1\InheritanceV1.csproj.CoreCompileInputs.cache
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\obj\Debug\netcoreapp3.1\InheritanceV1.dll
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\obj\Debug\netcoreapp3.1\InheritanceV1.pdb
+C:\Users\casey\GitHub\UNITY_course\InheritanceV1\InheritanceV1\obj\Debug\netcoreapp3.1\InheritanceV1.genruntimeconfig.cache
