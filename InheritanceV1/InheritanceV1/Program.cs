@@ -7,8 +7,8 @@ namespace InheritanceV1
         static void Main(string[] args)
         {
             Employee employee = new Employee();
-            employee.FirstName = "Casey";
-            employee.LastName = "O'Neal";
+            employee.FirstName = "Sample";
+            employee.LastName = "Student";
 
             employee.SayName();
 
