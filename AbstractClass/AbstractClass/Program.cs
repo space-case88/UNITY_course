@@ -14,6 +14,9 @@ namespace AbstractClass
 
             employee.SayName();
             Console.ReadLine();
+
+            IQuittable quittableEmployee = employee;
+            quittableEmployee.Quit();
         }
     }
 }
