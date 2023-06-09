@@ -1,0 +1,13 @@
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.AssemblyReference.cache
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\casey\GitHub\UNITY_course\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
