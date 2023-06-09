@@ -1,0 +1,13 @@
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.exe
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.deps.json
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.runtimeconfig.json
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.runtimeconfig.dev.json
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.dll
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\bin\Debug\netcoreapp3.1\Overload.pdb
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.csproj.AssemblyReference.cache
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.AssemblyInfoInputs.cache
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.AssemblyInfo.cs
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.csproj.CoreCompileInputs.cache
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.dll
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.pdb
+C:\Users\casey\GitHub\UNITY_course\Overload\Overload\obj\Debug\netcoreapp3.1\Overload.genruntimeconfig.cache
