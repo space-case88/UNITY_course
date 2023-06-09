@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace AbstractClass
 {
@@ -6,17 +7,38 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee()
+            Employee<string> employee1 = new Employee<string>()
             {
                 FirstName = "Sample",
-                LastName = "Student"
+                LastName = "Student",
+                Things = new List<string> { "Thing 1", "Thing 2", "Thing 3" }
             };
 
-            employee.SayName();
-            Console.ReadLine();
+            Employee<int> employee2 = new Employee<int>()
+            {
+                FirstName = "John",
+                LastName = "Snow",
+                Things = new List<int> { 1, 2, 3, 4, 5 }
+            };
 
-            IQuittable quittableEmployee = employee;
+            employee1.SayName();
+            Console.WriteLine("Things: ");
+            foreach (var thing in employee1.Things)
+            {
+                Console.WriteLine(thing);
+            }
+
+            employee2.SayName();
+            Console.WriteLine("Things: ");
+            foreach (var thing in employee2.Things)
+            {
+                Console.WriteLine(thing);
+            }
+
+            IQuittable quittableEmployee = employee1;
             quittableEmployee.Quit();
+
+            Console.ReadLine();
         }
     }
 }
