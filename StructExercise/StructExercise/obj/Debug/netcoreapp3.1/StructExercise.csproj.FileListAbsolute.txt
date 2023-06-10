@@ -1,0 +1,13 @@
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\bin\Debug\netcoreapp3.1\StructExercise.exe
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\bin\Debug\netcoreapp3.1\StructExercise.deps.json
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\bin\Debug\netcoreapp3.1\StructExercise.runtimeconfig.json
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\bin\Debug\netcoreapp3.1\StructExercise.runtimeconfig.dev.json
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\bin\Debug\netcoreapp3.1\StructExercise.dll
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\bin\Debug\netcoreapp3.1\StructExercise.pdb
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\obj\Debug\netcoreapp3.1\StructExercise.csproj.AssemblyReference.cache
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\obj\Debug\netcoreapp3.1\StructExercise.AssemblyInfoInputs.cache
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\obj\Debug\netcoreapp3.1\StructExercise.AssemblyInfo.cs
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\obj\Debug\netcoreapp3.1\StructExercise.csproj.CoreCompileInputs.cache
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\obj\Debug\netcoreapp3.1\StructExercise.dll
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\obj\Debug\netcoreapp3.1\StructExercise.pdb
+C:\Users\casey\GitHub\UNITY_course\StructExercise\StructExercise\obj\Debug\netcoreapp3.1\StructExercise.genruntimeconfig.cache

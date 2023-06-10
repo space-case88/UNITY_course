@@ -6,7 +6,7 @@ using System.Threading;
 
 namespace TwentOne
 {
-    public class Card
+    public struct Card
     {
         //suit of the card
         public Suit Suit { get; set; }
