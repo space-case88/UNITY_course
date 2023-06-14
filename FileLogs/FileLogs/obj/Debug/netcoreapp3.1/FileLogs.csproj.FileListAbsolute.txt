@@ -1,0 +1,13 @@
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\bin\Debug\netcoreapp3.1\FileLogs.exe
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\bin\Debug\netcoreapp3.1\FileLogs.deps.json
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\bin\Debug\netcoreapp3.1\FileLogs.runtimeconfig.json
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\bin\Debug\netcoreapp3.1\FileLogs.runtimeconfig.dev.json
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\bin\Debug\netcoreapp3.1\FileLogs.dll
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\bin\Debug\netcoreapp3.1\FileLogs.pdb
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\obj\Debug\netcoreapp3.1\FileLogs.csproj.AssemblyReference.cache
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\obj\Debug\netcoreapp3.1\FileLogs.AssemblyInfoInputs.cache
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\obj\Debug\netcoreapp3.1\FileLogs.AssemblyInfo.cs
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\obj\Debug\netcoreapp3.1\FileLogs.csproj.CoreCompileInputs.cache
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\obj\Debug\netcoreapp3.1\FileLogs.dll
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\obj\Debug\netcoreapp3.1\FileLogs.pdb
+C:\Users\casey\GitHub\UNITY_course\FileLogs\FileLogs\obj\Debug\netcoreapp3.1\FileLogs.genruntimeconfig.cache
